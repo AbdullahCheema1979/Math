@@ -5,6 +5,6 @@ class Program
     static void Main()
     {
         int a = 5, b = 3;
-        Console.WriteLine("Devision: " + (a/b));
+        Console.WriteLine("Subtraction: " + (a-b));
     }
 }
